@@ -1,0 +1,72 @@
+# Arquivos de configuração do IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs
+# Arquivos de compilação
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+build/
+Ankh.NoLoad
+
+# Pacotes NuGet
+packages/
+
+# Ferramentas ReSharper
+_ReSharper*/
+
+# Ferramentas Rider da JetBrains
+.idea/
+*.sln.iml
+
+# Arquivos de Banco de Dados SQL Server
+*.mdf
+*.ldf
+*.ndf
+
+# Arquivos de Configuração
+app.config
+web.config
+*.pfx
+*.publishsettings
+
+# Pasta de Log
+Logs/
+
+# Outros arquivos e pastas
+TestResults/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+[Tt]est[Rr]esults/
+
+# Arquivos de artefatos do MSBuild
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+
+# Arquivos de Backup e Database .mdf
+*.[Bb]ak
+*.[Bb]ak.*
+*.[Dd]bf
+*.[Mm]df
+*.[Ll]df
+*.[Nn]df
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Thumbs.db
