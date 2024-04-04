@@ -1,5 +1,6 @@
-<img src="https://redesolpe.com.br/site/images/banner_ifpe.png" />
-
+<p align='center'>
+	<img src="https://redesolpe.com.br/site/images/banner_ifpe.png" />
+</p>
 <p align='center'>
   <img src="https://img.shields.io/github/forks/erison7596/Projeto1_OnePageSite_MouraTech?color=%23835afd" alt='Forks'/>
   <img src="https://img.shields.io/github/stars/erison7596/Projeto1_OnePageSite_MouraTech?color=%23835afd" alt='stars'/>
